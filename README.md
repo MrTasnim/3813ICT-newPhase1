@@ -1,4 +1,4 @@
-![alt text]("💬 Text_&_Video_Chat_System.png")
+![alt text](💬Text_&_Video_Chat_System.png)
 
 # Basic Overview
 The chat system allows users to communicate with each other in real-time within different groups 
